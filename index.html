@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Aluraflix</title>
+</head>
+<body>
+    <header>
+        <a href="https://alura.com.br/" target="_blank">
+            <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="site-alura" class="alura-logo">
+        </a>
+
+        <h1 class="title-page">Alura Geek</h1>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="logo-imersao" alt="logo-imersao">
+    </header>
+
+    <main>
+        <div class="form-manga">
+                <select class="categoria" id="categoria">
+                <option selected>Categoria</option>
+                <option value="Acao">Ação</option>
+                <option value="Suspense">Suspense</option>
+                <option value="Aventura">Aventura</option>
+                <option value="Novel">light-Novel</option>
+            </select>
+
+            <input type="text" class="novoManga" placeholder="Digite o nome do Mangá" id="nomeManga">
+            <input type="text" class="novoManga" placeholder="Cole aqui a URL da imagem" id="urlManga">
+            
+            <button id="adicionar" onclick="adicionarManga()">Adicionar</button>
+        </div>
+
+        <div class="vitrineDeMangas">
+            <section>
+                <h2 class="titulo">Ação</h2>
+                <div id="listaDeAcao"></div>
+            </section>
+        
+            <section>
+                <h3 class="titulo">Suspense</h3>
+                <div id="listaDeSuspense"></div>
+            </section>
+
+            <section>
+                <h4 class="titulo">Aventura</h4>
+                <div id="listaDeAventura"></div>
+            </section>
+
+            <section>
+                <h5 class="titulo">Light-Novel</h5>
+                <div id="listaDeNovel"></div>
+            </section>
+        </div>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

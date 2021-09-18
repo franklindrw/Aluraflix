@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body{
+    text-align: center;
+    background-image: url("https://img.elo7.com.br/product/600x380/3362C96/papel-de-parede-adesivo-lavavel-quarto-manga-one-piece-papel-de-parede-infantil.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.title-page{
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.logo-imersao{
+    width: 15%;
+    padding-bottom: 20px;
+}
+
+.alura-logo{
+    position: absolute;
+    width: 40px;
+    margin-top: 10px;
+    right: 20px;
+}
+
+.formManga{
+    display: inline-block;
+    background-color: rgb(87, 87, 87);
+}
+
+.categoria{
+    width: 120px;
+    font-size: .9rem;
+    margin: -3px;
+    padding: 11px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px 0 0 10px;
+    outline: none;
+}
+
+.novoManga{
+    width: 25%;
+    margin: -3px;
+    padding: 10px;
+    font-size: .9rem;
+    outline: none;
+}
+
+#adicionar{
+    display: inline-block;
+    width: 100px;
+    color: #fff;
+    margin: -3px;
+    background-color: rgb(221, 67, 67);
+    border: none;
+    border-radius: 0 10px 10px 0;
+    padding: 12px;
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+#adicionar:hover{
+    color: rgb(179, 179, 179);
+    background-color: rgb(167, 0, 0);
+}
+
+.vitrineDeMangas{
+    display: inline;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.vitrineDeMangas img {
+    margin: 10px;
+    max-height: 250px;
+  }
+
+figure {
+    display: inline-block;
+    background-color: #fff;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+.titulo {
+    text-align: left;
+    color: #fff;
+    background-color: rgb(22, 22, 22);
+    font-size: 1.2rem;
+    padding: 10px;
+}
