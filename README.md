@@ -48,6 +48,7 @@
 
 
 ## Instalação
+(não é necessário instalação, é possível acessar a aplicação no link: https://franklindrw.github.io/Aluraflix)
 
  1. Clone o repositório
 
@@ -67,4 +68,5 @@
  2. Selecione a categoria desejada
  
  3. Preencha com o nome e o endereço da imagem e é só adicionar.
+ 
 
