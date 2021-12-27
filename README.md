@@ -1,7 +1,7 @@
 
 <div id="top"></div>
 
-<h1 align="center"> ImersãoDev - Aluraflix </h1>
+<h1 align="center"> ImersãoDev - Alura Geek </h1>
 
 <div id="statusProject" align="center">
  <img src="https://img.shields.io/github/license/franklindrw/Aluraflix.svg?style=for-the-badge" />
@@ -69,4 +69,24 @@
  
  3. Preencha com o nome e o endereço da imagem e é só adicionar.
  
+## Autor
 
+<a href="https://github.com/franklindrw">
+    <img style="border-radius: 50%; width: 100px" src="https://github.com/franklindrw.png" alt="Foto do Autor"/>
+    <br />
+    <sub><b>Franklin Campos </b></sub>
+</a>
+</br>
+<p>Feito por <strong>Franklin Campos</strong> 👋🏻 </br>
+Entre em contato!</p>
+
+<div>
+  <a href="https://www.linkedin.com/in/franklindrw" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:franklindrw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/franklindrw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+## 📋 Licença
+
+<p> Copyright 2021 © Franklin Campos </br>
+This project is MIT licensed.</p>
