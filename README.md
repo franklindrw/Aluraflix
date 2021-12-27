@@ -8,9 +8,7 @@
  <img src="https://img.shields.io/github/stars/franklindrw/Aluraflix.svg?style=for-the-badge" />
  <img src="https://img.shields.io/github/forks/franklindrw/Aluraflix.svg?style=for-the-badge" />
  <img src="https://img.shields.io/github/issues/franklindrw/Aluraflix.svg?style=for-the-badge" />
- <br />
  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
- <a href="https://www.linkedin.com/in/franklindrw/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" /></a>
  </div>
  
  
